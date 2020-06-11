@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\bin\Debug\VendDevice.exe.config
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\bin\Debug\VendDevice.exe
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\bin\Debug\VendDevice.pdb
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\obj\Debug\VendDevice.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\obj\Debug\VendDevice.Form1.resources
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\obj\Debug\VendDevice.Properties.Resources.resources
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\obj\Debug\VendDevice.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\obj\Debug\VendDevice.exe
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\obj\Debug\VendDevice.pdb
+C:\Users\Алексей\source\repos\VendDevice\VendDevice\obj\Debug\WindowsFormsApp13.Form1.resources

@@ -1,0 +1,8 @@
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\bin\Release\VendorDevi.exe.config
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\bin\Release\VendorDevi.exe
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\bin\Release\VendorDevi.pdb
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\obj\Release\VendorDevi.Form1.resources
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\obj\Release\VendorDevi.Properties.Resources.resources
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\obj\Release\VendorDevi.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\obj\Release\VendorDevi.exe
+C:\Users\Алексей\source\repos\VendDevice\VendorDevi\obj\Release\VendorDevi.pdb
